@@ -1,0 +1,30 @@
+.top-menu, #copyright-wrapper{background: #161716;color: #fff;}
+.nav-menu, .Mm-box .item .post-app, .label-size a, .blog-pager span.pagecurrent{background: #1e211e;color: #fff;}
+
+.blog-pager span.pagecurrent {background-color: #1e211e;color: #fff;}
+
+a, a:link, a:visited, a:active , .nav-menu .menu li a, .Mm-box .item .post-app h1 a, .box-title .title, .nav-menu .home, .nav-menu .btn_search{color: #dad9d9;}
+
+
+.Mm-box .item .post-app .d-rating i {color: #828282 !important;}
+
+#wrapper{background: #2b2b2b;}
+.label-size{background: transparent;}
+
+
+.box-title .title {
+    border-bottom: 3px solid #dad9d9;
+}
+
+.nav-menu .home {
+    border-left: 2px solid #dad9d9;
+}
+.nav-menu .btn_search {
+
+    border-right: 2px solid #dad9d9;
+
+}
+.top-menu ul li a:hover {
+    background: #ffffff;
+    color: #111;
+}
